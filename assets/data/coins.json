@@ -1,0 +1,38 @@
+{
+  "stable": [
+    "tether",
+    "usd-coin",
+    "dai",
+    "first-digital-usd",
+    "ethena-usde",
+    "usdd",
+    "frax",
+    "true-usd",
+    "paxos-standard",
+    "tether-gold",
+    "liquity-usd",
+    "gemini-dollar"
+  ],
+  "wrapped": [
+    "wrapped-bitcoin",
+    "wrapped-steth",
+    "wrapped-ether",
+    "wrapped-eeth",
+    "wrapped-beacon-eth",
+    "wrapped-avax",
+    "wrapped-fantom",
+    "wrapped-ton-coin",
+    "wrapped-okt"
+  ],
+  "lst": [
+    "lidofinance-steth",
+    "rocket-pool-eth",
+    "frax-ether",
+    "stakewise-seth2",
+    "mantle-staked-eth",
+    "coinbase-wrapped-staked-eth",
+    "binance-wrapped-seth2",
+    "stader-sftmx"
+  ],
+  "updatedAt": 1737380000000
+}
